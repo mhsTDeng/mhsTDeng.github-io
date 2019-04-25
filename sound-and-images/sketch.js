@@ -1,4 +1,4 @@
-var myImage;
+let myImage;
 
 
 function preload(){
