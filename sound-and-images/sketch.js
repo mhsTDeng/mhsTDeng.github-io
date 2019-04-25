@@ -12,5 +12,5 @@ function setup() {
 
 function draw() {
   // put drawing code here
-  image(prettybackground,100,100);
+  image(myImage,100,100);
 }
