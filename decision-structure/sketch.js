@@ -1,3 +1,9 @@
+/*
+Decision Structure
+Created by Tina Deng
+Revised May 8th, 2019
+*/
+
 
 //Variables for coin flip, heads or tails
 let tails;
