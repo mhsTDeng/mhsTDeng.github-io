@@ -1,3 +1,8 @@
+/*
+Mouse Interaction
+Created by Tina Deng
+Revised May 8th, 2019
+*/
 
 function setup() {
   //create a canvas
