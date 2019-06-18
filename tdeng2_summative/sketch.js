@@ -10,7 +10,7 @@ let dy = 0;
 let gravity = 0;
 let jump = false;
 let xSpeed = 7;
-let level = 1
+let level = 'start'
 let getColour;
 let platformColour = [237,196,87,255];
 let fall = false;
